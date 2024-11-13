@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(134, 211, 157);
+}
+
+p{
+    font-family: 'Arial', sans-serif;
+    font-size: 18px; 
+    color: #000000; 
+}
+
+a{
+    color: rgb(0, 0, 0);
+
+}
+
+.center-image{
+    position: absolute;
+    top: 15px; /* Distância do topo */
+    left: 10px; /* Distância da esquerda */
+    width: 200px; /* Tamanho da imagem */
+   
+}
+
+.horizontal-lista{
+    display: flex;
+    gap: 30px;   /* Espaçamento entre os itens */
+    padding: 0%;
+    margin: 2%; /* espaço da margen da tela esquerda*/
+
+}
+
+
+
+
